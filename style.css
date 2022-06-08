@@ -8,3 +8,7 @@ h1 {
     font-family: 'Open Sans', sans-serif;
 }
 
+body {
+    background-color: #2b2d30;
+    color: aliceblue;
+}
