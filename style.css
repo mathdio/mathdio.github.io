@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Open+Sans:wght@300&display=swap');
+
+h1 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.font-text {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #2b2d30;
+    color: aliceblue;
+}
