@@ -4,13 +4,11 @@ h1 {
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
 
-.font-text {
-    font-family: 'Open Sans', sans-serif;
-}
-
 body {
     background-color: #2b2d30;
     color: aliceblue;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 em {
@@ -21,14 +19,7 @@ strong {
     color: rgb(153, 204, 77);
 }
 
-.comprometimento {
-    font-size: 22px;
-}
-
-.organizacao {
-    font-size: 20px;
-}
-
-.empatia {
+.font-habilidades {
     font-size: 18px;
 }
+
