@@ -25,4 +25,21 @@ strong {
 
 .foto-perfil {
     border-radius: 50%;
+    max-height: 200px;
 }
+
+.perfil {
+    border: solid red;
+    display: flex;
+    padding: 64px;
+    width: 100%;
+}
+
+.sobre {
+    border: solid red;
+    margin-left: 16px;
+}
+
+
+
+
