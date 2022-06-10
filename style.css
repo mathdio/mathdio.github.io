@@ -29,14 +29,14 @@ strong {
 }
 
 .perfil {
-    border: solid red;
+    /* border: solid red; */
     display: flex;
     padding: 64px;
     width: 100%;
 }
 
 .sobre {
-    border: solid red;
+    /* border: solid red; */
     margin-left: 16px;
 }
 
